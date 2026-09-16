@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Wild West Landscaping logo</title>
+  <desc id="desc">A dark green and orange western landscape badge with a sun, hills, agave, and the words Wild West Landscaping.</desc>
+  <defs>
+    <style>
+      .green { fill:#173F2A } .orange { fill:#D96B27 } .cream { fill:#FFF8E8 }
+      .outline { fill:none;stroke:#173F2A;stroke-width:18;stroke-linecap:round;stroke-linejoin:round }
+      .western { font-family: Georgia, 'Times New Roman', serif; font-weight:900; letter-spacing:5px }
+      .sans { font-family: Arial, Helvetica, sans-serif; font-weight:700; letter-spacing:8px }
+    </style>
+  </defs>
+  <!-- sunset and ground emblem -->
+  <circle cx="800" cy="340" r="239" class="cream"/>
+  <circle cx="800" cy="340" r="241" class="outline"/>
+  <path d="M585 395c75-51 139-50 204 2 53-39 122-53 225-4v170H585z" class="green"/>
+  <path d="M586 478c66-37 125-31 184 11 73-45 150-40 244 10v66H586z" class="orange"/>
+  <path d="M800 165v-44M678 198l-26-37M922 198l26-37M617 289l-43-9M983 289l43-9" class="outline"/>
+  <!-- agave silhouette -->
+  <path d="M800 500c-58-61-102-112-101-170 63 40 93 78 101 128 7-50 38-88 101-128 1 58-43 109-101 170z" class="green"/>
+  <path d="M800 501c-113-14-183-49-211-105 79-1 139 25 211 78-48-74-47-136-1-206 47 70 48 132 1 206 72-53 132-79 211-78-28 56-98 91-211 105z" class="green"/>
+  <path d="M800 493V336M800 493l-112-78M800 493l112-78" fill="none" stroke="#FFF8E8" stroke-width="10" stroke-linecap="round"/>
+  <!-- name lockup -->
+  <path d="M255 620h1090" class="outline"/>
+  <text x="800" y="755" text-anchor="middle" class="western green" font-size="135">WILD WEST</text>
+  <text x="800" y="830" text-anchor="middle" class="sans orange" font-size="43">LANDSCAPING</text>
+  <path d="M410 870h180M1010 870h180" stroke="#D96B27" stroke-width="10" stroke-linecap="round"/>
+  <text x="800" y="884" text-anchor="middle" class="sans green" font-size="22">TAMING THE WILD, ONE YARD AT A TIME.</text>
+</svg>
